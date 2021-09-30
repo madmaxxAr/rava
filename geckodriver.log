@@ -555,3 +555,390 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileh8DoX6\\search.json.mozlz4", (void 0)))
 1632407343736	Marionette	INFO	Listening on port 52179
 1632407344223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632407426944	Marionette	INFO	Stopped listening on port 52179
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632420054684	geckodriver	INFO	Listening on 127.0.0.1:51016
+1632420057736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile7aNULG"
+1632420058040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile7aNULG\\search.json.mozlz4", (void 0)))
+1632420060271	Marionette	INFO	Listening on port 51024
+1632420060401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632420118769	Marionette	INFO	Stopped listening on port 51024
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632427071018	geckodriver	INFO	Listening on 127.0.0.1:54149
+1632427074058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileJ3OW5p"
+1632427074315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileJ3OW5p\\search.json.mozlz4", (void 0)))
+1632427076482	Marionette	INFO	Listening on port 54159
+1632427076723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632427109393	Marionette	INFO	Stopped listening on port 54159
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632427683131	geckodriver	INFO	Listening on 127.0.0.1:49762
+1632427686170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileiLadno"
+1632427686410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileiLadno\\search.json.mozlz4", (void 0)))
+1632427688106	Marionette	INFO	Listening on port 49773
+1632427688202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632427708549	Marionette	INFO	Stopped listening on port 49773
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632504231890	geckodriver	INFO	Listening on 127.0.0.1:64846
+1632504234948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilebuapLK"
+1632504263723	geckodriver	INFO	Listening on 127.0.0.1:56747
+1632504266783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile3c6C0w"
+1632504267145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile3c6C0w\\search.json.mozlz4", (void 0)))
+1632504269484	Marionette	INFO	Listening on port 56755
+1632504269990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632504461872	Marionette	INFO	Stopped listening on port 56755
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632747164656	geckodriver	INFO	Listening on 127.0.0.1:65332
+1632747167703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilebVsTcV"
+1632747168178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilebVsTcV\\search.json.mozlz4", (void 0)))
+1632747170031	Marionette	INFO	Listening on port 65341
+1632747170387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632747690435	Marionette	INFO	Stopped listening on port 65341
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632751628073	geckodriver	INFO	Listening on 127.0.0.1:61372
+1632751631139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile1RgJks"
+1632751631426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile1RgJks\\search.json.mozlz4", (void 0)))
+1632751633265	Marionette	INFO	Listening on port 61381
+1632751633294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632751685541	Marionette	INFO	Stopped listening on port 61381
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632759133098	geckodriver	INFO	Listening on 127.0.0.1:53722
+1632759136160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilePwWj9f"
+1632759136419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilePwWj9f\\search.json.mozlz4", (void 0)))
+1632759138344	Marionette	INFO	Listening on port 53731
+1632759138828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632759204018	Marionette	INFO	Stopped listening on port 53731
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632780456437	geckodriver	INFO	Listening on 127.0.0.1:56589
+1632780459482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileWiJukn"
+1632780459783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileWiJukn\\search.json.mozlz4", (void 0)))
+1632780461982	Marionette	INFO	Listening on port 56597
+1632780462152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632780476985	Marionette	INFO	Stopped listening on port 56597
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632838824610	geckodriver	INFO	Listening on 127.0.0.1:61603
+1632838827658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile2Hjk2m"
+1632838827967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile2Hjk2m\\search.json.mozlz4", (void 0)))
+1632838829807	Marionette	INFO	Listening on port 61611
+1632838829825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632838849346	Marionette	INFO	Stopped listening on port 61611
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632853267804	geckodriver	INFO	Listening on 127.0.0.1:65145
+1632853270857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile4KrAGN"
+1632853271147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile4KrAGN\\search.json.mozlz4", (void 0)))
+1632853272943	Marionette	INFO	Listening on port 65154
+1632853273032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632853777963	Marionette	INFO	Stopped listening on port 65154
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632855817333	geckodriver	INFO	Listening on 127.0.0.1:54470
+1632855820405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileTzCYA9"
+1632855820672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileTzCYA9\\search.json.mozlz4", (void 0)))
+1632855822568	Marionette	INFO	Listening on port 54479
+1632855823078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632855897038	Marionette	INFO	Stopped listening on port 54479
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632856655744	geckodriver	INFO	Listening on 127.0.0.1:51142
+1632856658802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileSdx0jE"
+1632856659073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileSdx0jE\\search.json.mozlz4", (void 0)))
+1632856660990	Marionette	INFO	Listening on port 51151
+1632856661483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632856692516	Marionette	INFO	Stopped listening on port 51151
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632859368701	geckodriver	INFO	Listening on 127.0.0.1:56782
+1632859371752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileWHssj8"
+1632859372029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileWHssj8\\search.json.mozlz4", (void 0)))
+1632859373741	Marionette	INFO	Listening on port 56791
+1632859373814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632859434484	Marionette	INFO	Stopped listening on port 56791
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632940337903	geckodriver	INFO	Listening on 127.0.0.1:60928
+1632940340948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileQriOju"
+1632940341237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileQriOju\\search.json.mozlz4", (void 0)))
+1632940343280	Marionette	INFO	Listening on port 60936
+1632940343625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632953006176	Marionette	INFO	Stopped listening on port 60936
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632998979664	geckodriver	INFO	Listening on 127.0.0.1:61307
+1632998982708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile3tuTU7"
+1632998983026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile3tuTU7\\search.json.mozlz4", (void 0)))
+1632998985023	Marionette	INFO	Listening on port 61315
+1632998985387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632999181251	Marionette	INFO	Stopped listening on port 61315
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+1632999168087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632999168804	Marionette	INFO	Stopped listening on port 60842
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632999184329	geckodriver	INFO	Listening on 127.0.0.1:60888
+1632999187373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileVrM3xC"
+1632999187626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileVrM3xC\\search.json.mozlz4", (void 0)))
+1632999189448	Marionette	INFO	Listening on port 60031
+1632999189534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632999237725	Marionette	INFO	Stopped listening on port 60031632999238632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileRN8JOD"
+1632999238893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileRN8JOD\\search.json.mozlz4", (void 0)))
+1632999241031	Marionette	INFO	Listening on port 60214
+1632999241306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632999516615	Marionette	INFO	Stopped listening on port 60214
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERRORconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileQ1tzVz\\search.json.mozlz4", (void 0)))
+1632999518617	Marionette	INFO	Listening on port 54275
+1632999518928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633010747549	Marionette	INFO	Stopped listening on port 54275
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+1633010718357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633011036346	Marionette	INFO	Stopped listening on port 60023
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERRORconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilegjDbRu\\search.json.mozlz4", (void 0)))
+1633011037465	Marionette	INFO	Listening on port 53335
+1633011037944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633011335616	Marionette	INFO	Stopped listening on port 53335
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633012317705	geckodriver	INFO	Listening on 127.0.0.1:63832
+1633012320768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileCcUk59"
+1633012321022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileCcUk59\\search.json.mozlz4", (void 0)))
+1633012322811	Marionette	INFO	Listening on port 63840
+1633012322830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633012606542	Marionette	INFO	Stopped listening on port 63840
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633012727724	geckodriver	INFO	Listening on 127.0.0.1:60512
+1633012730769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileXSus67"
+1633012731015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileXSus67\\search.json.mozlz4", (void 0)))
+1633012732812	Marionette	INFO	Listening on port 60522
+1633012732928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633012758296	Marionette	INFO	Stopped listening on port 60521633012760338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileN9DoLL"
+1633012760582	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileN9DoLL\\search.json.mozlz4", (void 0)))
+1633012762628	Marionette	INFO	Listening on port 59674
+1633012763012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633013175456	Marionette	INFO	Stopped listening on port 59671633013175625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileNsBtz8"
+1633013175908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileNsBtz8\\search.json.mozlz4", (void 0)))
+1633013177799	Marionette	INFO	Listening on port 59889
+1633013178292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633013220937	Marionette	INFO	Stopped listening on port 59889
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+profileCp5Ilm\\search.json.mozlz4", (void 0)))
+1633013218002	Marionette	INFO	Listening on port 60037
+1633013218439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633017123212	Marionette	INFO	Stopped listening on port 60031633017124701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileAVYyAr"
+1633017124989	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileAVYyAr\\search.json.mozlz4", (void 0)))
+1633017126778	Marionette	INFO	Listening on port 51458
+1633017126859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633017195407	Marionette	INFO	Stopped listening on port 51458
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633017197805	geckodriver	INFO	Listening on 127.0.0.1:51341
+1633017200846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilekUzfX8"
+1633017201094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilekUzfX8\\search.json.mozlz4", (void 0)))
+1633017202970	Marionette	INFO	Listening on port 51349
+1633017203007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633017304042	Marionette	INFO	Stopped listening on port 51349
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633017631587	geckodriver	INFO	Listening on 127.0.0.1:53887
+1633017634637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileEdANWB"
+1633017634929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileEdANWB\\search.json.mozlz4", (void 0)))
+1633017636930	Marionette	INFO	Listening on port 60533
+1633017637313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633019480356	Marionette	INFO	Stopped listening on port 60533
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+1633019346740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633019479233	Marionette	INFO	Stopped listening on port 61002
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+profileYTtHgx\\search.json.mozlz4", (void 0)))
+1633019475949	Marionette	INFO	Listening on port 58438
+1633019476383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633019528723	Marionette	INFO	Stopped listening on port 58438
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://re1633019528765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilebh0Xmu\\search.json.mozlz4", (void 0)))
+1633019530796	Marionette	INFO	Listening on port 58589
+1633019531100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633019646421	Marionette	INFO	Stopped listening on port 58581633019647102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilePGZtGp"
+1633019647359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilePGZtGp\\search.json.mozlz4", (void 0)))
+1633019649276	Marionette	INFO	Listening on port 61745
+1633019649771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633022212237	Marionette	INFO	Stopped listening on port 61745
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633025767022	geckodriver	INFO	Listening on 127.0.0.1:62905
+1633025770061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile6nAMvb"
+1633025770413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofile6nAMvb\\search.json.mozlz4", (void 0)))
+1633025772322	Marionette	INFO	Listening on port 62914
+1633025772750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633026228210	Marionette	INFO	Stopped listening on port 62914
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633026517428	geckodriver	INFO	Listening on 127.0.0.1:54743
+1633026520499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileKQAzhe"
+1633026520806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileKQAzhe\\search.json.mozlz4", (void 0)))
+1633026522820	Marionette	INFO	Listening on port 54753
+1633026523178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633026698202	Marionette	INFO	Stopped listening on port 54753
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633027130115	geckodriver	INFO	Listening on 127.0.0.1:54864
+1633027133186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilej0Yx33"
+1633027133451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilej0Yx33\\search.json.mozlz4", (void 0)))
+1633027135288	Marionette	INFO	Listening on port 54873
+1633027135345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633027457514	Marionette	INFO	Stopped listening on port 54873
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+profilexIl9c3\\search.json.mozlz4", (void 0)))
+1633027451583	Marionette	INFO	Listening on port 59294
+1633027452081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633027647210	Marionette	INFO	Stopped listening on port 59294
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633028253755	geckodriver	INFO	Listening on 127.0.0.1:50075
+1633028256814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilezyp4Pc"
+1633028257078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofilezyp4Pc\\search.json.mozlz4", (void 0)))
+1633028258776	Marionette	INFO	Listening on port 50084
+1633028258870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633028748836	Marionette	INFO	Stopped listening on port 50084
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633030794067	geckodriver	INFO	Listening on 127.0.0.1:60123
+1633030797125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileYEXXkI"
+1633030797402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileYEXXkI\\search.json.mozlz4", (void 0)))
+1633030799125	Marionette	INFO	Listening on port 60132
+1633030799180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633032508459	Marionette	INFO	Stopped listening on port 60132
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://re1633032508542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileEdQIxp\\search.json.mozlz4", (void 0)))
+1633032510483	Marionette	INFO	Listening on port 52185
+1633032510889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633033092166	Marionette	INFO	Stopped listening on port 52185
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERRORconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileto0ONe\\search.json.mozlz4", (void 0)))
+1633033093691	Marionette	INFO	Listening on port 54123
+1633033094118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633033154663	Marionette	INFO	Stopped listening on port 54123
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://re1633033154939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Maxx\\AppData\\Local\\Temp\\rust_mozprofileVciLmG\\search.json.mozlz4", (void 0)))
+1633033156718	Marionette	INFO	Listening on port 56630
+1633033156771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633033183324	Marionette	INFO	Stopped listening on port 56630
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
