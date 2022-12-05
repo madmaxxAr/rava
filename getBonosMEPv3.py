@@ -1,4 +1,4 @@
-from selenium import webdriver
+#from selenium import webdriver
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
@@ -36,26 +36,26 @@ def stripTablaBono(divBonos):
 def stripBonoPrices(divBono):
     return re.findall('<span data-v-((.|\s)+?)</span>',str(divBono))
 
-html_doc = 'https://datos.rava.com/'
+#html_doc = 'https://datos.rava.com/'
 
-driver = webdriver.Firefox(executable_path="C:\\Users\\Maxx\\Downloads\\geckodriver-v0.29.1-win64\\geckodriver.exe")
-driver.get(html_doc)
+#driver = webdriver.Firefox(executable_path="C:\\Users\\Maxx\\Downloads\\geckodriver-v0.29.1-win64\\geckodriver.exe")
+#driver.get(html_doc)
 
-#url = 'https://datos.rava.com/'
-#data = requests.get(url,verify=False)
+url = 'https://datos.rava.com/'
+data = requests.get(url,verify=False)
 
 # This will get the initial html - before javascript
 #html1 = driver.page_source
 # This will get the html after on-load javascript
-html2 = driver.execute_script("return document.documentElement.innerHTML;")
+#html2 = driver.execute_script("return document.documentElement.innerHTML;")
 
-soup = BeautifulSoup(html2, 'lxml')
-#soup = BeautifulSoup(data.content, 'lxml')
-#soup = BeautifulSoup(data.content, 'html.parser')
+#soup = BeautifulSoup(html2, 'lxml')
+soup = BeautifulSoup(data.content, 'lxml')
+soup = BeautifulSoup(data.content, 'html.parser')
 #type(soup)
-#tree = html.fromstring(data.content)
-#soup = BeautifulSoup(html.tostring(tree), 'lxml')
-#soup = BeautifulSoup(html.tostring(tree), 'html.parser')
+tree = html.fromstring(data.content)
+soup = BeautifulSoup(html.tostring(tree), 'lxml')
+soup = BeautifulSoup(html.tostring(tree), 'html.parser')
 
 divBonosUSD = soup.select('div#tabla-dolares-usd') #get tabla nombre BONO USD especifica
 divBonosARS = soup.select('div#tabla-dolares-ars') #get tabla nombre BONO ARS especifica
